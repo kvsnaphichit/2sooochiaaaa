@@ -1,0 +1,34 @@
+{
+  "name": "2sooochiaaaa",
+  "version": "1.1.5",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kvsnaphichit/2sooochiaaaa.git"
+  },
+  "dependencies": {
+    "naruemonkaekhum-tinhtonggggg": "1.1.1",
+    "tinhtonggggg": "1.1.1",
+    "summm-tongggg": "1.1.1",
+    "iiitinh-tong": "1.1.2",
+    "muchkin99-summmm": "1.1.3",
+    "summmmtinhtong": "1.1.3",
+    "meetangphonenhannn":"1.1.4",
+    "nhammm2sooo":"1.1.4",
+    "chiaaaa2sooo":"1.1.5",
+    "binhhhphuonggggtbbb":"1.0.6"
+    },
+ "homepage": "https://github.com/kvsnaphichit/2sooochiaaaa",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "kvsnaphichit",
+  "license": "MIT"
+}
